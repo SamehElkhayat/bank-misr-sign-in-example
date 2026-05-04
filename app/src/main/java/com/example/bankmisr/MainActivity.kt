@@ -323,7 +323,7 @@ private fun NavigationButtons(serviceName: String, serviceImage: Int){
             contentDescription = "Our Products",
             modifier = Modifier
                 .padding(top = 32.dp)
-                .size(60.dp,60.dp)
+                .size(64.dp,64.dp)
         )
         Text(
             text = serviceName,
